@@ -1,12 +1,12 @@
 body {
   background-color: rgb(245, 245, 245);
+  margin: 0;
+  padding: 0;
 }
 
 h2,
 p {
   text-align: center;
-  margin: 0;
-  padding: 0;
   color: #333;
   text-shadow: 4px 3px 4px #999;
 }
@@ -14,26 +14,24 @@ h2 {
   font-family: "Josefin Slab", "Helvetica";
   font-weight: bold;
   font-style: normal;
-  font-size: 6.5rem;
+  font-size: 4.5rem;
+  margin: auto;
 }
-.hey {
-  padding: 0;
-}
-.container1 {
-  padding-top: 7%;
-  display: flex;
-  flex-direction: column;
 
-  align-items: center;
+.container1 {
+  padding-top: 70px;
+  display: block;
   width: 100%;
 }
 P {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: bold;
   font-family: "Josefin Slab", "Helvetica";
+  margin: 0;
 }
 #button {
-  font-size: 4rem;
+  font-size: 2.5rem;
+
   font-family: "IBM Plex Serif", serif;
   background-color: #ff1d8e;
   color: white;
@@ -54,11 +52,11 @@ P {
 h3 {
   color: greenyellow;
   font-family: "Josefin Slab", "Helvetica";
-  font-size: 24px;
+  font-size: 15px;
 }
 .navy {
   color: white;
   text-shadow: none;
-  font-size: 20px;
+  font-size: 12px;
   font-family: sans-serif;
 }
