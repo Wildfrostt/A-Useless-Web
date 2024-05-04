@@ -1,0 +1,64 @@
+body {
+  background-color: rgb(245, 245, 245);
+}
+
+h2,
+p {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  text-shadow: 4px 3px 4px #999;
+}
+h2 {
+  font-family: "Josefin Slab", "Helvetica";
+  font-weight: bold;
+  font-style: normal;
+  font-size: 6.5rem;
+}
+.hey {
+  padding: 0;
+}
+.container1 {
+  padding-top: 7%;
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  width: 100%;
+}
+P {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: "Josefin Slab", "Helvetica";
+}
+#button {
+  font-size: 4rem;
+  font-family: "IBM Plex Serif", serif;
+  background-color: #ff1d8e;
+  color: white;
+  border-color: #ff1d8e;
+  box-shadow: 10px 7px 7px #921554;
+}
+.button {
+  display: flex;
+  justify-content: center;
+}
+.arrow {
+  font-size: 60px;
+}
+.collapse {
+  display: flex;
+  flex-direction: column;
+}
+h3 {
+  color: greenyellow;
+  font-family: "Josefin Slab", "Helvetica";
+  font-size: 24px;
+}
+.navy {
+  color: white;
+  text-shadow: none;
+  font-size: 20px;
+  font-family: sans-serif;
+}
