@@ -60,3 +60,7 @@ h3 {
   font-size: 12px;
   font-family: sans-serif;
 }
+.navbar-toggler {
+  background-color: white;
+  border: 2px solid #ff1d8e;
+}
